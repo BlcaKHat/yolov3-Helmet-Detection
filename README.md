@@ -23,8 +23,8 @@ change the name of folder in line 150 for input images.
 open terminal and python3 Helmet_detection_YOLOV3.py  
 
 If everything went well. you will get results like this  
-![img1](https://github.com/BlcaKHat/yolov3-Helmet-Detection/blob/master/test_out/img3.jpg)
-![img2](https://github.com/BlcaKHat/yolov3-Helmet-Detection/blob/master/test_out/img4.jpg)
-![img3](https://github.com/BlcaKHat/yolov3-Helmet-Detection/blob/master/test_out/img.jpg)
+![img1](https://github.com/BlcaKHat/yolov3-Helmet-Detection/blob/master/test_out/img3.jpg)  
+![img2](https://github.com/BlcaKHat/yolov3-Helmet-Detection/blob/master/test_out/img4.jpg)  
+![img3](https://github.com/BlcaKHat/yolov3-Helmet-Detection/blob/master/test_out/img.jpg)  
 
 
