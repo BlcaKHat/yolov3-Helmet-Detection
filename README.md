@@ -25,7 +25,7 @@ change the name of folder in line 150 for input images.
 open terminal and python3 Helmet_detection_YOLOV3.py  
 
 The original script is taken from [learnopencv](https://github.com/spmallick/learnopencv/tree/master/ObjectDetection-YOLO)
-I just did a few edits.  
+I just did a few changes.  
 #### link to files.  
 [model](https://drive.google.com/open?id=16yH9M_ovw0cJG4gVKuXTkz_cwYxJtwAk)  
 [cfg](https://drive.google.com/open?id=1GiWyY1EHUWgkBvo8tGuwM4yoplaZZGza)  
