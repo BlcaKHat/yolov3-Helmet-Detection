@@ -5,6 +5,8 @@ Getting Started
 #### This code is very simple and with the help of little manipulation, you can count the number of detection for a particular detection.
 #### or extract the co-ordinates of bounding boxes. download the models, create necessary files and give full path to the models and folder names and run the python script.  
 
+#### training:  
+  if you want to train your own model, follow the [darknet](https://github.com/AlexeyAB/darknet).
 Prerequisites  
 install python3.  
 install pip3.  
