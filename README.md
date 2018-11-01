@@ -24,6 +24,12 @@ change the name of folder in line 150 for input images.
 , it's ready to run.  
 open terminal and python3 Helmet_detection_YOLOV3.py  
 
+The original script is taken from [learnopencv](https://github.com/spmallick/learnopencv/tree/master/ObjectDetection-YOLO)
+I just did a few edits.  
+#### link to files.  
+[model](https://drive.google.com/open?id=16yH9M_ovw0cJG4gVKuXTkz_cwYxJtwAk)  
+[cfg](https://drive.google.com/open?id=1GiWyY1EHUWgkBvo8tGuwM4yoplaZZGza)  
+[obj.names](https://drive.google.com/open?id=1FXi_OdRL4gZ_1_xf8ldnO4cZJnJYbYzn)  
 If everything went well. you will get results like this  
 ![img1](https://github.com/BlcaKHat/yolov3-Helmet-Detection/blob/master/test_out/img3.jpg)  
 ![img2](https://github.com/BlcaKHat/yolov3-Helmet-Detection/blob/master/test_out/img4.jpg)  
