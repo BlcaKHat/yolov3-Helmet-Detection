@@ -1,5 +1,5 @@
 # Helmet Detection using YOLOV3
-A yolo model to detect and count the number of people wearing helmet in yolo. this model can be used to detect the itrusion or to fint hte people ridding bike without helmet.
+A yolo model to detect and count the number of people wearing helmet in yolo. this model can be used to detect the itrusion or to find the people ridding bike without helmet.
 
 Getting Started
 #### This code is very simple and with the help of little manipulation, you can count the number of detection for a particular detection.
