@@ -1,5 +1,5 @@
 # Helmet Detection using YOLOV3
-A yolo model to detect and count the number of people wearing helmet in yolo. this model can be used to detect the intrusion or to find the people ridding bike without helmet.
+Its a simple YOLO model to detect and count the number of people wearing helmet in a image. this model can be used to detect the intrusion or to find the people ridding bike without helmet.
 
 Getting Started
 #### This code is very simple and with the help of little manipulation, you can count the number of detection for a particular detection.
@@ -24,8 +24,6 @@ change the name of folder in line 150 for input images.
 , it's ready to run.  
 open terminal and python3 Helmet_detection_YOLOV3.py  
 
-The original script is taken from [learnopencv](https://github.com/spmallick/learnopencv/tree/master/ObjectDetection-YOLO)
-I just did a few changes.  
 #### link to files.  
 [model](https://drive.google.com/open?id=16yH9M_ovw0cJG4gVKuXTkz_cwYxJtwAk)  
 [cfg](https://drive.google.com/open?id=1GiWyY1EHUWgkBvo8tGuwM4yoplaZZGza)  
