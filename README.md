@@ -1,9 +1,11 @@
 # Helmet Detection using YOLOV3
 Its a simple YOLO model to detect and count the number of people wearing helmet in a image. this model can be used to detect the intrusion or to find the people ridding bike without helmet.
 
+Here you can read my post in detail  https://medium.com/@vijaysingh_60587/train-your-own-custom-model-for-helmet-detection-object-detection-using-yolo-f53a48066d7a
+
 Getting Started
 #### This code is very simple and with the help of little manipulation, you can count the number of detection for a particular detection.
-#### or extract the co-ordinates of bounding boxes. download the models, create necessary files and give full path to the models and folder names and run the python script.  
+#### or extract the co-ordinates of bounding boxes. download the models, create necessary files and give full path to the models and folder names and run the python script.
 
 #### training:  
   if you want to train your own model, follow the [darknet](https://github.com/AlexeyAB/darknet).
