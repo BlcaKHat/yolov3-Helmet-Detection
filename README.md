@@ -27,9 +27,9 @@ change the name of folder in line 150 for input images.
 open terminal and python3 Helmet_detection_YOLOV3.py  
 
 #### link to files.  
-[model](https://drive.google.com/open?id=16yH9M_ovw0cJG4gVKuXTkz_cwYxJtwAk)  
-[cfg](https://drive.google.com/open?id=1GiWyY1EHUWgkBvo8tGuwM4yoplaZZGza)  
-[obj.names](https://drive.google.com/open?id=1FXi_OdRL4gZ_1_xf8ldnO4cZJnJYbYzn)  
+[model](https://drive.google.com/file/d/1_xBdP1GRK4i7yzJP8_a5GWaejZZKjdyI/view?usp=sharing)  
+[cfg](https://drive.google.com/file/d/119l1wonij3kXcuyAHC6-jRTw1NT0FzFH/view?usp=sharing)  
+[obj.names](https://drive.google.com/file/d/1eSA8XVuzCe9Ka63v-HEWx7Hxo8z_cpaF/view?usp=sharing)  
 If everything went well. you will get results like this  
 ![img1](https://github.com/BlcaKHat/yolov3-Helmet-Detection/blob/master/test_out/img3.jpg)  
 ![img2](https://github.com/BlcaKHat/yolov3-Helmet-Detection/blob/master/test_out/img4.jpg)  
