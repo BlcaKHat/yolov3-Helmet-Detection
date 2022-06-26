@@ -120,7 +120,7 @@ def postprocess(frame, outs):
 
         #checking class, if it is a person or not
 
-        my_class='Helmet'                   #======================================== mycode .....
+        my_class='helmet'                   #======================================== mycode .....
         unknown_class = classes[classId]
 
         if my_class == unknown_class:
